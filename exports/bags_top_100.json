@@ -1,0 +1,2258 @@
+{
+    "data": [
+        {
+            "mint": "CMx7yon2cLzHcXqgHsKJhuU3MmME6noWLQk2rAycBAGS",
+            "link": "https://bags.fm/CMx7yon2cLzHcXqgHsKJhuU3MmME6noWLQk2rAycBAGS",
+            "totalFees": 2795.11,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "onchainh",
+                    "link": "https://x.com/onchainh",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 2696.57,
+                    "provider": "twitter",
+                    "providerUsername": "PRguitarman",
+                    "link": "https://x.com/PRguitarman",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 98.54
+        },
+        {
+            "mint": "ESBCnCXtEZDmX8QnHU6qMZXd9mvjSAZVoYaLKKADBAGS",
+            "link": "https://bags.fm/ESBCnCXtEZDmX8QnHU6qMZXd9mvjSAZVoYaLKKADBAGS",
+            "totalFees": 2685.08,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 2659.34,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 25.74
+        },
+        {
+            "mint": "EkJuyYyD3to61CHVPJn6wHb7xANxvqApnVJ4o2SdBAGS",
+            "link": "https://bags.fm/EkJuyYyD3to61CHVPJn6wHb7xANxvqApnVJ4o2SdBAGS",
+            "totalFees": 1952.66,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "Matt_Furie",
+                    "link": "https://x.com/Matt_Furie",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 1952.66
+        },
+        {
+            "mint": "G1DXVVmqJs8Ei79QbK41dpgk2WtXSGqLtx9of7o8BAGS",
+            "link": "https://bags.fm/G1DXVVmqJs8Ei79QbK41dpgk2WtXSGqLtx9of7o8BAGS",
+            "totalFees": 1816.03,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 1805.95,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 10.08
+        },
+        {
+            "mint": "9mAnyxAq8JQieHT7Lc47PVQbTK7ZVaaog8LwAbFzBAGS",
+            "link": "https://bags.fm/9mAnyxAq8JQieHT7Lc47PVQbTK7ZVaaog8LwAbFzBAGS",
+            "totalFees": 1490.58,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 149.04,
+                    "provider": "twitter",
+                    "providerUsername": "praiseonlyone",
+                    "link": "https://x.com/praiseonlyone",
+                    "royaltySplit": 10.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 1032.11,
+                    "provider": "twitter",
+                    "providerUsername": "teamwater",
+                    "link": "https://x.com/teamwater",
+                    "royaltySplit": 90.0
+                }
+            ],
+            "unclaimedSol": 309.43
+        },
+        {
+            "mint": "FpBL8Ta2XGw4VrpDrw8EH1Qm3mb1o4brHweASeszBAGS",
+            "link": "https://bags.fm/FpBL8Ta2XGw4VrpDrw8EH1Qm3mb1o4brHweASeszBAGS",
+            "totalFees": 853.31,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 16.69,
+                    "provider": "twitter",
+                    "providerUsername": "expression",
+                    "link": "https://x.com/expression",
+                    "royaltySplit": 2.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 824.39,
+                    "provider": "twitter",
+                    "providerUsername": "morganlinton",
+                    "link": "https://x.com/morganlinton",
+                    "royaltySplit": 98.0
+                }
+            ],
+            "unclaimedSol": 12.23
+        },
+        {
+            "mint": "AhiEuwGafsTbu2oUkk1Tmbprg1wdUvWiUCLVvAwvBAGS",
+            "link": "https://bags.fm/AhiEuwGafsTbu2oUkk1Tmbprg1wdUvWiUCLVvAwvBAGS",
+            "totalFees": 764.89,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 685.66,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 79.22
+        },
+        {
+            "mint": "5ghpHpgiew7WuuKY1f3CSMgGHmDiZUeMjZrgDrfzBAGS",
+            "link": "https://bags.fm/5ghpHpgiew7WuuKY1f3CSMgGHmDiZUeMjZrgDrfzBAGS",
+            "totalFees": 723.98,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "quantisthename",
+                    "link": "https://x.com/quantisthename",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 715.09,
+                    "provider": "twitter",
+                    "providerUsername": "tetsuoai",
+                    "link": "https://x.com/tetsuoai",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 8.9
+        },
+        {
+            "mint": "jkGKKj3MinQg8nkcWZBid6XxeSnn75Xoy9AqkqLBAGS",
+            "link": "https://bags.fm/jkGKKj3MinQg8nkcWZBid6XxeSnn75Xoy9AqkqLBAGS",
+            "totalFees": 617.79,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 60.49,
+                    "provider": "twitter",
+                    "providerUsername": "CartiTheMenace",
+                    "link": "https://x.com/CartiTheMenace",
+                    "royaltySplit": 10.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 554.88,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 90.0
+                }
+            ],
+            "unclaimedSol": 2.42
+        },
+        {
+            "mint": "HfDzw3DYCcJyQfnUkTMWFKuyCQmveAbtba7CbHUKBAGS",
+            "link": "https://bags.fm/HfDzw3DYCcJyQfnUkTMWFKuyCQmveAbtba7CbHUKBAGS",
+            "totalFees": 610.2,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 608.03,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 2.16
+        },
+        {
+            "mint": "FhvBDEr46meW6NHWHNeShDzvbXWabNzyT6uGinEgBAGS",
+            "link": "https://bags.fm/FhvBDEr46meW6NHWHNeShDzvbXWabNzyT6uGinEgBAGS",
+            "totalFees": 602.61,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "YourAnonBags",
+                    "link": "https://x.com/YourAnonBags",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 592.49,
+                    "provider": "twitter",
+                    "providerUsername": "GBMilady",
+                    "link": "https://x.com/GBMilady",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 10.12
+        },
+        {
+            "mint": "EgJtueYVNtMZsmbXdn8ToBp3wT67Mt3RPDs434vbBAGS",
+            "link": "https://bags.fm/EgJtueYVNtMZsmbXdn8ToBp3wT67Mt3RPDs434vbBAGS",
+            "totalFees": 591.85,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "quantisthename",
+                    "link": "https://x.com/quantisthename",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 584.28,
+                    "provider": "twitter",
+                    "providerUsername": "PRguitarman",
+                    "link": "https://x.com/PRguitarman",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 7.56
+        },
+        {
+            "mint": "Gj4TowizfdkRJNsTgBEkj2WpBZZmGE7o9nN8q6RhBAGS",
+            "link": "https://bags.fm/Gj4TowizfdkRJNsTgBEkj2WpBZZmGE7o9nN8q6RhBAGS",
+            "totalFees": 583.5,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "TraderBurry",
+                    "link": "https://x.com/TraderBurry",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 564.88,
+                    "provider": "twitter",
+                    "providerUsername": "Upward_Earth",
+                    "link": "https://x.com/Upward_Earth",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 18.61
+        },
+        {
+            "mint": "2B5Rs88FYyFp4XciFrJ7zovvEeybiinZA8PXsSptBAGS",
+            "link": "https://bags.fm/2B5Rs88FYyFp4XciFrJ7zovvEeybiinZA8PXsSptBAGS",
+            "totalFees": 577.03,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "achichuchu",
+                    "link": "https://x.com/achichuchu",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 577.03
+        },
+        {
+            "mint": "E7MYzWD8GtLYNsgRyECSts2p1s2mu5JLb6wR9CiCBAGS",
+            "link": "https://bags.fm/E7MYzWD8GtLYNsgRyECSts2p1s2mu5JLb6wR9CiCBAGS",
+            "totalFees": 576.62,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "ShabbatMonster",
+                    "link": "https://x.com/ShabbatMonster",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 507.41,
+                    "provider": "twitter",
+                    "providerUsername": "BckyrdBandwidth",
+                    "link": "https://x.com/BckyrdBandwidth",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 69.21
+        },
+        {
+            "mint": "B1AamSAei6RPWE6DNBgn3XGNVj9By55P8cKtDgPZBAGS",
+            "link": "https://bags.fm/B1AamSAei6RPWE6DNBgn3XGNVj9By55P8cKtDgPZBAGS",
+            "totalFees": 571.47,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "kanyewest",
+                    "link": "https://x.com/kanyewest",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 571.47
+        },
+        {
+            "mint": "HoBmCAQp75DHEPvhHqttPUuBTj29K5KRoM9naCkSBAGS",
+            "link": "https://bags.fm/HoBmCAQp75DHEPvhHqttPUuBTj29K5KRoM9naCkSBAGS",
+            "totalFees": 561.16,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "0xertroo",
+                    "link": "https://x.com/0xertroo",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 561.06,
+                    "provider": "twitter",
+                    "providerUsername": "BRNRT_Research",
+                    "link": "https://x.com/BRNRT_Research",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 0.1
+        },
+        {
+            "mint": "6ieMTp3XMjtLUGzzqEwekdgPCgBt9aW8nAE6uhuBBAGS",
+            "link": "https://bags.fm/6ieMTp3XMjtLUGzzqEwekdgPCgBt9aW8nAE6uhuBBAGS",
+            "totalFees": 539.93,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 5.26,
+                    "provider": "twitter",
+                    "providerUsername": "MiloOnBags",
+                    "link": "https://x.com/MiloOnBags",
+                    "royaltySplit": 1.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "WinRAR_RARLAB",
+                    "link": "https://x.com/WinRAR_RARLAB",
+                    "royaltySplit": 99.0
+                }
+            ],
+            "unclaimedSol": 534.67
+        },
+        {
+            "mint": "FCPMdpvwxtWBvgDDsPuBb6wyf41ik2gtPqNN9jWSBAGS",
+            "link": "https://bags.fm/FCPMdpvwxtWBvgDDsPuBb6wyf41ik2gtPqNN9jWSBAGS",
+            "totalFees": 485.66,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "FreshOnCrypto",
+                    "link": "https://x.com/FreshOnCrypto",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 432.03,
+                    "provider": "twitter",
+                    "providerUsername": "pizzintwatch",
+                    "link": "https://x.com/pizzintwatch",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 53.63
+        },
+        {
+            "mint": "643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS",
+            "link": "https://bags.fm/643Bi6ckHT4ikS45pCkMqHbrHqFbAgA6hcEonKP5BAGS",
+            "totalFees": 480.09,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 445.45,
+                    "provider": "twitter",
+                    "providerUsername": "ryunuck",
+                    "link": "https://x.com/ryunuck",
+                    "royaltySplit": 100.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "appiyoupi",
+                    "link": "https://x.com/appiyoupi",
+                    "royaltySplit": 0.0
+                }
+            ],
+            "unclaimedSol": 34.64
+        },
+        {
+            "mint": "GQsefQc5YPE12wkMnYMxD8Rq1wrRX7f9iFgpBjNpBAGS",
+            "link": "https://bags.fm/GQsefQc5YPE12wkMnYMxD8Rq1wrRX7f9iFgpBjNpBAGS",
+            "totalFees": 475.82,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 469.38,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 6.44
+        },
+        {
+            "mint": "DqWtuxjDY2gAqAweJKNeJne5HbarbXLZnaDUe92nBAGS",
+            "link": "https://bags.fm/DqWtuxjDY2gAqAweJKNeJne5HbarbXLZnaDUe92nBAGS",
+            "totalFees": 473.68,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "LOCKEDINSOLANA",
+                    "link": "https://x.com/LOCKEDINSOLANA",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 472.14,
+                    "provider": "twitter",
+                    "providerUsername": "agpkeleta",
+                    "link": "https://x.com/agpkeleta",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 1.54
+        },
+        {
+            "mint": "GapLMjXkfAKd23So5SRqU6yyyFrUmkZAyzEkoKP6BAGS",
+            "link": "https://bags.fm/GapLMjXkfAKd23So5SRqU6yyyFrUmkZAyzEkoKP6BAGS",
+            "totalFees": 460.99,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "monkfall",
+                    "link": "https://x.com/monkfall",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 437.88,
+                    "provider": "twitter",
+                    "providerUsername": "BillyM2k",
+                    "link": "https://x.com/BillyM2k",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 23.1
+        },
+        {
+            "mint": "BpAiFPCqjvnz7ETKjxr6ZpEKKnGGBE7rNZUU7A7eBAGS",
+            "link": "https://bags.fm/BpAiFPCqjvnz7ETKjxr6ZpEKKnGGBE7rNZUU7A7eBAGS",
+            "totalFees": 460.48,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 4.59,
+                    "provider": "twitter",
+                    "providerUsername": "Felixonchain",
+                    "link": "https://x.com/Felixonchain",
+                    "royaltySplit": 1.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 454.59,
+                    "provider": "twitter",
+                    "providerUsername": "verdisgov",
+                    "link": "https://x.com/verdisgov",
+                    "royaltySplit": 99.0
+                }
+            ],
+            "unclaimedSol": 1.3
+        },
+        {
+            "mint": "6TdvRoTarRaDWDKisxC23zZhvhERNvFP8d7pG8CvBAGS",
+            "link": "https://bags.fm/6TdvRoTarRaDWDKisxC23zZhvhERNvFP8d7pG8CvBAGS",
+            "totalFees": 439.68,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "judthedev",
+                    "link": "https://x.com/judthedev",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 52.9,
+                    "provider": "twitter",
+                    "providerUsername": "damnventures",
+                    "link": "https://x.com/damnventures",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 386.79
+        },
+        {
+            "mint": "pvv4fu1RvQBkKXozyH5A843sp1mt6gTy9rPoZrBBAGS",
+            "link": "https://bags.fm/pvv4fu1RvQBkKXozyH5A843sp1mt6gTy9rPoZrBBAGS",
+            "totalFees": 423.96,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "AmachiSOL",
+                    "link": "https://x.com/AmachiSOL",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 409.18,
+                    "provider": "twitter",
+                    "providerUsername": "rinegade",
+                    "link": "https://x.com/rinegade",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 14.78
+        },
+        {
+            "mint": "45peQFd9KD5pb8inMDN4RFGXdsyQEZY3qFDgvrgpBAGS",
+            "link": "https://bags.fm/45peQFd9KD5pb8inMDN4RFGXdsyQEZY3qFDgvrgpBAGS",
+            "totalFees": 419.51,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "Polaricsol",
+                    "link": "https://x.com/Polaricsol",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 404.14,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 15.37
+        },
+        {
+            "mint": "8zdFumGcK2iF8AcqfSEjaPX4NzPuP3Tyx7msnvcsBAGS",
+            "link": "https://bags.fm/8zdFumGcK2iF8AcqfSEjaPX4NzPuP3Tyx7msnvcsBAGS",
+            "totalFees": 381.65,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 37.11,
+                    "provider": "twitter",
+                    "providerUsername": "morphgenz",
+                    "link": "https://x.com/morphgenz",
+                    "royaltySplit": 10.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 197.37,
+                    "provider": "twitter",
+                    "providerUsername": "TheOceanCleanup",
+                    "link": "https://x.com/TheOceanCleanup",
+                    "royaltySplit": 90.0
+                }
+            ],
+            "unclaimedSol": 147.17
+        },
+        {
+            "mint": "5EpbKX221NYVidK6A2nJGhtuLPvrPiQ6shknLbtjBAGS",
+            "link": "https://bags.fm/5EpbKX221NYVidK6A2nJGhtuLPvrPiQ6shknLbtjBAGS",
+            "totalFees": 376.89,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "memeputer",
+                    "link": "https://x.com/memeputer",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 376.89
+        },
+        {
+            "mint": "CyXBDcVQuHyEDbG661Jf3iHqxyd9wNHhE2SiQdNrBAGS",
+            "link": "https://bags.fm/CyXBDcVQuHyEDbG661Jf3iHqxyd9wNHhE2SiQdNrBAGS",
+            "totalFees": 364.41,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "PublicFundApp",
+                    "link": "https://x.com/PublicFundApp",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 364.41
+        },
+        {
+            "mint": "DEHoLKtoFGvLZeA29jsUHxS14MZhjokD52SABiMfBAGS",
+            "link": "https://bags.fm/DEHoLKtoFGvLZeA29jsUHxS14MZhjokD52SABiMfBAGS",
+            "totalFees": 362.22,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 2.38,
+                    "provider": "twitter",
+                    "providerUsername": "orynthai",
+                    "link": "https://x.com/orynthai",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 359.84
+        },
+        {
+            "mint": "Ecv1NVMfYSUW3YQ48siC8s7mdrvqp2syHWGi1rDdBAGS",
+            "link": "https://bags.fm/Ecv1NVMfYSUW3YQ48siC8s7mdrvqp2syHWGi1rDdBAGS",
+            "totalFees": 357.4,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "LaiJieee",
+                    "link": "https://x.com/LaiJieee",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "kevinafischer",
+                    "link": "https://x.com/kevinafischer",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 357.4
+        },
+        {
+            "mint": "7Mxvi7bi5bnjELB4QNzQ4VrQEPeBgPbWwbfwE1ydBAGS",
+            "link": "https://bags.fm/7Mxvi7bi5bnjELB4QNzQ4VrQEPeBgPbWwbfwE1ydBAGS",
+            "totalFees": 353.39,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "shakezy7",
+                    "link": "https://x.com/shakezy7",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 328.82,
+                    "provider": "twitter",
+                    "providerUsername": "Fantoumi",
+                    "link": "https://x.com/Fantoumi",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 24.57
+        },
+        {
+            "mint": "81KzC6LsZEN4BGcMRcg5BoanAsXk4ctP8gFhQDweBAGS",
+            "link": "https://bags.fm/81KzC6LsZEN4BGcMRcg5BoanAsXk4ctP8gFhQDweBAGS",
+            "totalFees": 352.38,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 2.54,
+                    "provider": "twitter",
+                    "providerUsername": "buythehat",
+                    "link": "https://x.com/buythehat",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 349.84
+        },
+        {
+            "mint": "dWd8vyAH9pQMMG1bkQWiGnyx8LjjuTDHsk8qcsCBAGS",
+            "link": "https://bags.fm/dWd8vyAH9pQMMG1bkQWiGnyx8LjjuTDHsk8qcsCBAGS",
+            "totalFees": 344.11,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 5.32,
+                    "provider": "email",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 338.8
+        },
+        {
+            "mint": "CWWhjWDYtC5Qamm46vwdifrmGKsiRB1UbsQHvKRqBAGS",
+            "link": "https://bags.fm/CWWhjWDYtC5Qamm46vwdifrmGKsiRB1UbsQHvKRqBAGS",
+            "totalFees": 333.77,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 3.27,
+                    "provider": "twitter",
+                    "providerUsername": "jckxbt",
+                    "link": "https://x.com/jckxbt",
+                    "royaltySplit": 1.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 209.22,
+                    "provider": "email",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 99.0
+                }
+            ],
+            "unclaimedSol": 121.28
+        },
+        {
+            "mint": "32nNtYR8h8rRBKv8JQd2PM1XroBh8rQica5JWmgpBAGS",
+            "link": "https://bags.fm/32nNtYR8h8rRBKv8JQd2PM1XroBh8rQica5JWmgpBAGS",
+            "totalFees": 333.35,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 265.39,
+                    "provider": "twitter",
+                    "providerUsername": "paradilf",
+                    "link": "https://x.com/paradilf",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 67.96
+        },
+        {
+            "mint": "EAC2gBy18pS9XiBVmC8WJALbTT7sh5L8HvPcEg89BAGS",
+            "link": "https://bags.fm/EAC2gBy18pS9XiBVmC8WJALbTT7sh5L8HvPcEg89BAGS",
+            "totalFees": 326.07,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "TraderBurry",
+                    "link": "https://x.com/TraderBurry",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "laserboat999",
+                    "link": "https://x.com/laserboat999",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 326.07
+        },
+        {
+            "mint": "AuPMJ2VqiJd6gd2e65ALYhpSctzCYancBYLG5usfBAGS",
+            "link": "https://bags.fm/AuPMJ2VqiJd6gd2e65ALYhpSctzCYancBYLG5usfBAGS",
+            "totalFees": 322.96,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 322.27,
+                    "provider": "twitter",
+                    "providerUsername": "BillyM2k",
+                    "link": "https://x.com/BillyM2k",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 0.69
+        },
+        {
+            "mint": "GCLTmivKZfxYi8SV17FrpqH8HZtJauoePQPRHxJxBAGS",
+            "link": "https://bags.fm/GCLTmivKZfxYi8SV17FrpqH8HZtJauoePQPRHxJxBAGS",
+            "totalFees": 320.69,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "Silverhand83",
+                    "link": "https://x.com/Silverhand83",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 320.27,
+                    "provider": "twitter",
+                    "providerUsername": "kevanjatt",
+                    "link": "https://x.com/kevanjatt",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 0.41
+        },
+        {
+            "mint": "5dqeSBZire3edNnQwbKtugbPdWLnDCg4D8Eg3yR1BAGS",
+            "link": "https://bags.fm/5dqeSBZire3edNnQwbKtugbPdWLnDCg4D8Eg3yR1BAGS",
+            "totalFees": 310.48,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "nyanyancatt",
+                    "link": "https://x.com/nyanyancatt",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 308.43,
+                    "provider": "twitter",
+                    "providerUsername": "PRguitarman",
+                    "link": "https://x.com/PRguitarman",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 2.05
+        },
+        {
+            "mint": "3REkm7R5HxCjAnNSMR8ktuv8Ghub71RxZzfWfWheBAGS",
+            "link": "https://bags.fm/3REkm7R5HxCjAnNSMR8ktuv8Ghub71RxZzfWfWheBAGS",
+            "totalFees": 309.44,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 242.2,
+                    "provider": "twitter",
+                    "providerUsername": "ravendevteam",
+                    "link": "https://x.com/ravendevteam",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 67.24
+        },
+        {
+            "mint": "5arEQv5tGJj8UbhnPrc1WL5KMmijCe4FuexCaEXUBAGS",
+            "link": "https://bags.fm/5arEQv5tGJj8UbhnPrc1WL5KMmijCe4FuexCaEXUBAGS",
+            "totalFees": 300.85,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 299.96,
+                    "provider": "twitter",
+                    "providerUsername": "Squirrel_Dad12",
+                    "link": "https://x.com/Squirrel_Dad12",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 0.89
+        },
+        {
+            "mint": "BriHnFv9qa8Hrzjgh4vmvp1WxzECPUTyZ4VHbRe4BAGS",
+            "link": "https://bags.fm/BriHnFv9qa8Hrzjgh4vmvp1WxzECPUTyZ4VHbRe4BAGS",
+            "totalFees": 296.32,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 2.95,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 1.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 291.56,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 99.0
+                }
+            ],
+            "unclaimedSol": 1.82
+        },
+        {
+            "mint": "6bESwyduZ6hZGSE2S2CVpZvfDUzB5WgfuyK2vZ6yBAGS",
+            "link": "https://bags.fm/6bESwyduZ6hZGSE2S2CVpZvfDUzB5WgfuyK2vZ6yBAGS",
+            "totalFees": 295.46,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 2.28,
+                    "provider": "twitter",
+                    "providerUsername": "burnonbags",
+                    "link": "https://x.com/burnonbags",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 293.18
+        },
+        {
+            "mint": "DQ4wBK1LoZwhahx18GuDTDCwbFZ8ZfFV3VSk3V3bBAGS",
+            "link": "https://bags.fm/DQ4wBK1LoZwhahx18GuDTDCwbFZ8ZfFV3VSk3V3bBAGS",
+            "totalFees": 292.3,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 1.88,
+                    "provider": "twitter",
+                    "providerUsername": "saint_whynne",
+                    "link": "https://x.com/saint_whynne",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 290.42
+        },
+        {
+            "mint": "8fCWwxUWryzMWFS8WfuC7Tebkg5nWMQ4xrzrw7yJBAGS",
+            "link": "https://bags.fm/8fCWwxUWryzMWFS8WfuC7Tebkg5nWMQ4xrzrw7yJBAGS",
+            "totalFees": 290.12,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "JoJoAquila1st",
+                    "link": "https://x.com/JoJoAquila1st",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 290.12
+        },
+        {
+            "mint": "7pL98QbnrMZCe5FEKajSdTTgLn6Thf5CFaozLkayBAGS",
+            "link": "https://bags.fm/7pL98QbnrMZCe5FEKajSdTTgLn6Thf5CFaozLkayBAGS",
+            "totalFees": 281.63,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "ronweasley_sol",
+                    "link": "https://x.com/ronweasley_sol",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 271.89,
+                    "provider": "twitter",
+                    "providerUsername": "NeuraNova9",
+                    "link": "https://x.com/NeuraNova9",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 9.73
+        },
+        {
+            "mint": "DJGAdx7X6YiVk9anFbVAqgJtLjiNEeqAksn6WCQ9BAGS",
+            "link": "https://bags.fm/DJGAdx7X6YiVk9anFbVAqgJtLjiNEeqAksn6WCQ9BAGS",
+            "totalFees": 280.77,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 274.55,
+                    "provider": "twitter",
+                    "providerUsername": "buildsumn",
+                    "link": "https://x.com/buildsumn",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 6.22
+        },
+        {
+            "mint": "6DaSdWSu5NMtpFZkx8iBXUphCjPwPrSkXShbnqi9BAGS",
+            "link": "https://bags.fm/6DaSdWSu5NMtpFZkx8iBXUphCjPwPrSkXShbnqi9BAGS",
+            "totalFees": 273.29,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "3hree6ixhrs",
+                    "link": "https://x.com/3hree6ixhrs",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 271.79,
+                    "provider": "twitter",
+                    "providerUsername": "DividendsBot",
+                    "link": "https://x.com/DividendsBot",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 1.51
+        },
+        {
+            "mint": "Cw2doN2QR3e5FEsJurgX7wJG4RDeDjTxGsp3uZgKBAGS",
+            "link": "https://bags.fm/Cw2doN2QR3e5FEsJurgX7wJG4RDeDjTxGsp3uZgKBAGS",
+            "totalFees": 271.69,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "MrBeast",
+                    "link": "https://x.com/MrBeast",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 271.69
+        },
+        {
+            "mint": "FdpEvMwXM99WsCr5zwrQ5BqgQTSLULpewpXjfs7ABAGS",
+            "link": "https://bags.fm/FdpEvMwXM99WsCr5zwrQ5BqgQTSLULpewpXjfs7ABAGS",
+            "totalFees": 270.82,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 6.21,
+                    "provider": "twitter",
+                    "providerUsername": "degenin_social",
+                    "link": "https://x.com/degenin_social",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 264.61
+        },
+        {
+            "mint": "HZNkenEuc8oZShjM68uKiPQoWTa4KeUNeyWFYenUBAGS",
+            "link": "https://bags.fm/HZNkenEuc8oZShjM68uKiPQoWTa4KeUNeyWFYenUBAGS",
+            "totalFees": 265.55,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "0xSLAY3R",
+                    "link": "https://x.com/0xSLAY3R",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 264.88,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 0.67
+        },
+        {
+            "mint": "3C6S7LGiyzdr5j1ZB2WfadPPzbwE15VxntmdtGY3BAGS",
+            "link": "https://bags.fm/3C6S7LGiyzdr5j1ZB2WfadPPzbwE15VxntmdtGY3BAGS",
+            "totalFees": 262.01,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 261.8,
+                    "provider": "twitter",
+                    "providerUsername": "rinegade_sol",
+                    "link": "https://x.com/rinegade_sol",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 0.21
+        },
+        {
+            "mint": "GvkxeDmoghdjdrmMtc7EZQVobTgV7JiBLEkmPdVyBAGS",
+            "link": "https://bags.fm/GvkxeDmoghdjdrmMtc7EZQVobTgV7JiBLEkmPdVyBAGS",
+            "totalFees": 249.24,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 14.6,
+                    "provider": "twitter",
+                    "providerUsername": "OreonSol",
+                    "link": "https://x.com/OreonSol",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 234.65
+        },
+        {
+            "mint": "7ES2bLatqiXAb1bKUGN24av6dSPgRNdWUwPe3SgEBAGS",
+            "link": "https://bags.fm/7ES2bLatqiXAb1bKUGN24av6dSPgRNdWUwPe3SgEBAGS",
+            "totalFees": 248.02,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "ShabbatMonster",
+                    "link": "https://x.com/ShabbatMonster",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 232.56,
+                    "provider": "twitter",
+                    "providerUsername": "AndySaxon78",
+                    "link": "https://x.com/AndySaxon78",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 15.46
+        },
+        {
+            "mint": "5NGM6UJM4q9WSCU6XoqvrLNfvyR58mGL3ENBrrVhBAGS",
+            "link": "https://bags.fm/5NGM6UJM4q9WSCU6XoqvrLNfvyR58mGL3ENBrrVhBAGS",
+            "totalFees": 245.72,
+            "users": [
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 99.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "BagsAMM",
+                    "link": "https://x.com/BagsAMM",
+                    "royaltySplit": 1.0
+                },
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "quantisthename",
+                    "link": "https://x.com/quantisthename",
+                    "royaltySplit": 0.0
+                }
+            ],
+            "unclaimedSol": 245.72
+        },
+        {
+            "mint": "G8RBkZTf74Fn7gTFesTf8nztFujZngTqmUzvcX7VBAGS",
+            "link": "https://bags.fm/G8RBkZTf74Fn7gTFesTf8nztFujZngTqmUzvcX7VBAGS",
+            "totalFees": 244.19,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "Fufu_FNF",
+                    "link": "https://x.com/Fufu_FNF",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 46.89,
+                    "provider": "twitter",
+                    "providerUsername": "jynxbby",
+                    "link": "https://x.com/jynxbby",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 197.3
+        },
+        {
+            "mint": "3kGNiKvLKSfGNax2dx1pNzqxZn3cDj5ZSjPWADUDBAGS",
+            "link": "https://bags.fm/3kGNiKvLKSfGNax2dx1pNzqxZn3cDj5ZSjPWADUDBAGS",
+            "totalFees": 228.71,
+            "users": [],
+            "unclaimedSol": 228.71
+        },
+        {
+            "mint": "2HzCwxPfUCaBJ9HGNKCc3qqkeqrp3Xrk9o7VsHbeBAGS",
+            "link": "https://bags.fm/2HzCwxPfUCaBJ9HGNKCc3qqkeqrp3Xrk9o7VsHbeBAGS",
+            "totalFees": 223.26,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 213.04,
+                    "provider": "twitter",
+                    "providerUsername": "antmiddleton",
+                    "link": "https://x.com/antmiddleton",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 10.22
+        },
+        {
+            "mint": "aG7kn5sHTJ1v2y83a4iYVkDvGEPuQ41GQpanymJBAGS",
+            "link": "https://bags.fm/aG7kn5sHTJ1v2y83a4iYVkDvGEPuQ41GQpanymJBAGS",
+            "totalFees": 221.97,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "shakezy7",
+                    "link": "https://x.com/shakezy7",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 221.15,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 0.81
+        },
+        {
+            "mint": "GApq6xgTFBdEQNP4irn4sLi9cQo3bnxhWbUywpgyBAGS",
+            "link": "https://bags.fm/GApq6xgTFBdEQNP4irn4sLi9cQo3bnxhWbUywpgyBAGS",
+            "totalFees": 220.79,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "crunch1271",
+                    "link": "https://x.com/crunch1271",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 160.39,
+                    "provider": "twitter",
+                    "providerUsername": "FreeAlexeyRoman",
+                    "link": "https://x.com/FreeAlexeyRoman",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 60.4
+        },
+        {
+            "mint": "3t1bNt1RoXZvrPDZp8SXEaaQarZRBFf7W6mi9Eb8BAGS",
+            "link": "https://bags.fm/3t1bNt1RoXZvrPDZp8SXEaaQarZRBFf7W6mi9Eb8BAGS",
+            "totalFees": 217.2,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 31.99,
+                    "provider": "twitter",
+                    "providerUsername": "1amyourfarther",
+                    "link": "https://x.com/1amyourfarther",
+                    "royaltySplit": 15.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 182.02,
+                    "provider": "twitter",
+                    "providerUsername": "TRobinsonNewEra",
+                    "link": "https://x.com/TRobinsonNewEra",
+                    "royaltySplit": 85.0
+                }
+            ],
+            "unclaimedSol": 3.18
+        },
+        {
+            "mint": "H47nC6VBFBPvDApUyyfrEHhhQVL72NsbtjQYK99EBAGS",
+            "link": "https://bags.fm/H47nC6VBFBPvDApUyyfrEHhhQVL72NsbtjQYK99EBAGS",
+            "totalFees": 210.27,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 201.76,
+                    "provider": "twitter",
+                    "providerUsername": "mavensbot",
+                    "link": "https://x.com/mavensbot",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 8.52
+        },
+        {
+            "mint": "BkoimbGqgJmwZYekLRqHJaH8xSPVvxCLRZpYTcAQBAGS",
+            "link": "https://bags.fm/BkoimbGqgJmwZYekLRqHJaH8xSPVvxCLRZpYTcAQBAGS",
+            "totalFees": 208.32,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 205.83,
+                    "provider": "twitter",
+                    "providerUsername": "DVanLangenhove",
+                    "link": "https://x.com/DVanLangenhove",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 2.5
+        },
+        {
+            "mint": "88uWePLqqR6RRYZSio3zzbUQesDF8rzefkqV2ZJ1BAGS",
+            "link": "https://bags.fm/88uWePLqqR6RRYZSio3zzbUQesDF8rzefkqV2ZJ1BAGS",
+            "totalFees": 208.25,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "web4goon",
+                    "link": "https://x.com/web4goon",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 163.72,
+                    "provider": "twitter",
+                    "providerUsername": "whyarethis",
+                    "link": "https://x.com/whyarethis",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 44.53
+        },
+        {
+            "mint": "DpFkEmSqYBd2vq1yPHa2awRGwYT55ksAczpF9YepBAGS",
+            "link": "https://bags.fm/DpFkEmSqYBd2vq1yPHa2awRGwYT55ksAczpF9YepBAGS",
+            "totalFees": 205.57,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 1.17,
+                    "provider": "twitter",
+                    "providerUsername": "rohunbhat",
+                    "link": "https://x.com/rohunbhat",
+                    "royaltySplit": 1.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 201.73,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 99.0
+                }
+            ],
+            "unclaimedSol": 2.66
+        },
+        {
+            "mint": "GLxf1rJ6U3MuM5eP3L86XFkkfnUZzx38C7G3XxGbBAGS",
+            "link": "https://bags.fm/GLxf1rJ6U3MuM5eP3L86XFkkfnUZzx38C7G3XxGbBAGS",
+            "totalFees": 205.39,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 202.94,
+                    "provider": "twitter",
+                    "providerUsername": "lazymau",
+                    "link": "https://x.com/lazymau",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 2.45
+        },
+        {
+            "mint": "D3jYB29ZjSRwry6c266VNoeVkQWH8fqSsMCy2F8xBAGS",
+            "link": "https://bags.fm/D3jYB29ZjSRwry6c266VNoeVkQWH8fqSsMCy2F8xBAGS",
+            "totalFees": 205.12,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 10.12,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 5.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "teamtreesofficl",
+                    "link": "https://x.com/teamtreesofficl",
+                    "royaltySplit": 95.0
+                }
+            ],
+            "unclaimedSol": 195.0
+        },
+        {
+            "mint": "9a5DxpveEUcPKjcULbHU1YMDq5FwUZFtPLxw6YRGBAGS",
+            "link": "https://bags.fm/9a5DxpveEUcPKjcULbHU1YMDq5FwUZFtPLxw6YRGBAGS",
+            "totalFees": 204.34,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.72,
+                    "provider": "twitter",
+                    "providerUsername": "shakezy7",
+                    "link": "https://x.com/shakezy7",
+                    "royaltySplit": 1.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "breastcancer",
+                    "link": "https://x.com/breastcancer",
+                    "royaltySplit": 99.0
+                }
+            ],
+            "unclaimedSol": 203.62
+        },
+        {
+            "mint": "8J4oASLBU8WdTgeRP4wiucCH4Cpn272R47W9JmduBAGS",
+            "link": "https://bags.fm/8J4oASLBU8WdTgeRP4wiucCH4Cpn272R47W9JmduBAGS",
+            "totalFees": 199.94,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 2.06,
+                    "provider": "twitter",
+                    "providerUsername": "ShushShushkid",
+                    "link": "https://x.com/ShushShushkid",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 197.88
+        },
+        {
+            "mint": "Egs8S3cnfyYHBHiczH5d6v2Xj47AiSaD8gXm9xLkBAGS",
+            "link": "https://bags.fm/Egs8S3cnfyYHBHiczH5d6v2Xj47AiSaD8gXm9xLkBAGS",
+            "totalFees": 198.07,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "whoisjaylee",
+                    "link": "https://x.com/whoisjaylee",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 151.4,
+                    "provider": "twitter",
+                    "providerUsername": "nikshepsvn",
+                    "link": "https://x.com/nikshepsvn",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 46.67
+        },
+        {
+            "mint": "3JhPeuFhKMBZCn7d6Wxjqpe3B9stjDD56NJyXENnBAGS",
+            "link": "https://bags.fm/3JhPeuFhKMBZCn7d6Wxjqpe3B9stjDD56NJyXENnBAGS",
+            "totalFees": 195.95,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "cashinghard",
+                    "link": "https://x.com/cashinghard",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "mlg27_",
+                    "link": "https://x.com/mlg27_",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 195.95
+        },
+        {
+            "mint": "JCEFxjtg8YMmpmYtQU7tyVJgcpmJaJntwPBkfCowBAGS",
+            "link": "https://bags.fm/JCEFxjtg8YMmpmYtQU7tyVJgcpmJaJntwPBkfCowBAGS",
+            "totalFees": 195.7,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 185.68,
+                    "provider": "twitter",
+                    "providerUsername": "Sapuchii",
+                    "link": "https://x.com/Sapuchii",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 10.02
+        },
+        {
+            "mint": "CwMcqqnw2nCMfseDhF6WyCP5HA9rZ15sqhRkUnbpBAGS",
+            "link": "https://bags.fm/CwMcqqnw2nCMfseDhF6WyCP5HA9rZ15sqhRkUnbpBAGS",
+            "totalFees": 191.59,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "aixbt_agent",
+                    "link": "https://x.com/aixbt_agent",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 191.59
+        },
+        {
+            "mint": "4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS",
+            "link": "https://bags.fm/4EyZeBHzExbXJTM6uVDiXyGVZVnf9Vi5rdBaBCFvBAGS",
+            "totalFees": 191.42,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "luzhayka501",
+                    "link": "https://x.com/luzhayka501",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "15outof10",
+                    "link": "https://x.com/15outof10",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 191.42
+        },
+        {
+            "mint": "3heHztcCZRj4NMpPrPG9iPDibPcR2JA6Ke17nSKiBAGS",
+            "link": "https://bags.fm/3heHztcCZRj4NMpPrPG9iPDibPcR2JA6Ke17nSKiBAGS",
+            "totalFees": 189.38,
+            "users": [],
+            "unclaimedSol": 189.38
+        },
+        {
+            "mint": "8xweW5M9qxhfq8arp5RAieyXNvwhCXUCxLDgSXSQBAGS",
+            "link": "https://bags.fm/8xweW5M9qxhfq8arp5RAieyXNvwhCXUCxLDgSXSQBAGS",
+            "totalFees": 185.56,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "nevhsol",
+                    "link": "https://x.com/nevhsol",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 184.26,
+                    "provider": "twitter",
+                    "providerUsername": "AndyAyrey",
+                    "link": "https://x.com/AndyAyrey",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 1.3
+        },
+        {
+            "mint": "4iVXoa1zeaQT7ySV86YNKfxP4QhDiicYrvZAUmBABAGS",
+            "link": "https://bags.fm/4iVXoa1zeaQT7ySV86YNKfxP4QhDiicYrvZAUmBABAGS",
+            "totalFees": 183.62,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "TraderBurry",
+                    "link": "https://x.com/TraderBurry",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 170.53,
+                    "provider": "twitter",
+                    "providerUsername": "tmtrdorg",
+                    "link": "https://x.com/tmtrdorg",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 13.09
+        },
+        {
+            "mint": "UaGxUQU2TgqSmzhViJeuVGmGrQmuLVPF5jYQUW2BAGS",
+            "link": "https://bags.fm/UaGxUQU2TgqSmzhViJeuVGmGrQmuLVPF5jYQUW2BAGS",
+            "totalFees": 181.2,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 17.9,
+                    "provider": "twitter",
+                    "providerUsername": "jckxbt",
+                    "link": "https://x.com/jckxbt",
+                    "royaltySplit": 10.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 157.22,
+                    "provider": "twitter",
+                    "providerUsername": "techdevnotes",
+                    "link": "https://x.com/techdevnotes",
+                    "royaltySplit": 90.0
+                }
+            ],
+            "unclaimedSol": 6.08
+        },
+        {
+            "mint": "FJACkaKuR3Q6KwscvhzWLDPHGDxLLfrc6med6jHLBAGS",
+            "link": "https://bags.fm/FJACkaKuR3Q6KwscvhzWLDPHGDxLLfrc6med6jHLBAGS",
+            "totalFees": 177.08,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "shakezy7",
+                    "link": "https://x.com/shakezy7",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 169.06,
+                    "provider": "twitter",
+                    "providerUsername": "michaelbeer01",
+                    "link": "https://x.com/michaelbeer01",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 8.02
+        },
+        {
+            "mint": "EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS",
+            "link": "https://bags.fm/EXdq6GgKTNGQiMyW3s61CwV9meTEdPM5Yd1EpdoXBAGS",
+            "totalFees": 175.3,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 11.68,
+                    "provider": "twitter",
+                    "providerUsername": "Devployer",
+                    "link": "https://x.com/Devployer",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 163.62
+        },
+        {
+            "mint": "7GB6po6UVqRq8wcTM3sXdM3URoDntcBhSBVhWwVTBAGS",
+            "link": "https://bags.fm/7GB6po6UVqRq8wcTM3sXdM3URoDntcBhSBVhWwVTBAGS",
+            "totalFees": 173.39,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 169.73,
+                    "provider": "twitter",
+                    "providerUsername": "DividendsBot",
+                    "link": "https://x.com/DividendsBot",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 3.66
+        },
+        {
+            "mint": "Bm8MHt9vwK2RapFFZLa4AWfwLCzXAqCxanRj81xWBAGS",
+            "link": "https://bags.fm/Bm8MHt9vwK2RapFFZLa4AWfwLCzXAqCxanRj81xWBAGS",
+            "totalFees": 172.92,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "zukiweb3",
+                    "link": "https://x.com/zukiweb3",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 66.42,
+                    "provider": "twitter",
+                    "providerUsername": "Sikino_Sito",
+                    "link": "https://x.com/Sikino_Sito",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 106.51
+        },
+        {
+            "mint": "BkXYYV9Y6sXzchKx7jNXrAMjZVVw17RxQm38781jBAGS",
+            "link": "https://bags.fm/BkXYYV9Y6sXzchKx7jNXrAMjZVVw17RxQm38781jBAGS",
+            "totalFees": 168.67,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "laughtaless",
+                    "link": "https://x.com/laughtaless",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 163.66,
+                    "provider": "twitter",
+                    "providerUsername": "boldleonidas",
+                    "link": "https://x.com/boldleonidas",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 5.01
+        },
+        {
+            "mint": "Ewi6fwryRyAaMVzQSSYchpqhk3bSTTyv6MoRxX3LBAGS",
+            "link": "https://bags.fm/Ewi6fwryRyAaMVzQSSYchpqhk3bSTTyv6MoRxX3LBAGS",
+            "totalFees": 165.49,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 6.19,
+                    "provider": "twitter",
+                    "providerUsername": "boo_orr_o",
+                    "link": "https://x.com/boo_orr_o",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 159.3
+        },
+        {
+            "mint": "FhU5H81LQ6sidDSufwNxUiTZ6scRHbsmNtBHFXtLBAGS",
+            "link": "https://bags.fm/FhU5H81LQ6sidDSufwNxUiTZ6scRHbsmNtBHFXtLBAGS",
+            "totalFees": 163.91,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 1.5,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 1.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 142.73,
+                    "provider": "twitter",
+                    "providerUsername": "TestesCancer",
+                    "link": "https://x.com/TestesCancer",
+                    "royaltySplit": 99.0
+                }
+            ],
+            "unclaimedSol": 19.67
+        },
+        {
+            "mint": "DeddB4Dgth32AtJANepQQrsqLDEXB5hdr5wkyPxLBAGS",
+            "link": "https://bags.fm/DeddB4Dgth32AtJANepQQrsqLDEXB5hdr5wkyPxLBAGS",
+            "totalFees": 163.76,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": null,
+                    "link": "https://x.com/None",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 156.99,
+                    "provider": "twitter",
+                    "providerUsername": "DrakeBell",
+                    "link": "https://x.com/DrakeBell",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 6.77
+        },
+        {
+            "mint": "Eme5T2s2HB7B8W4YgLG1eReQpnadEVUnQBRjaKTdBAGS",
+            "link": "https://bags.fm/Eme5T2s2HB7B8W4YgLG1eReQpnadEVUnQBRjaKTdBAGS",
+            "totalFees": 163.72,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 79.57,
+                    "provider": "twitter",
+                    "providerUsername": "CryptoRugMunch",
+                    "link": "https://x.com/CryptoRugMunch",
+                    "royaltySplit": 50.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 79.85,
+                    "provider": "twitter",
+                    "providerUsername": "RugMunchDao",
+                    "link": "https://x.com/RugMunchDao",
+                    "royaltySplit": 50.0
+                }
+            ],
+            "unclaimedSol": 4.29
+        },
+        {
+            "mint": "GGCacGgxeQt1zcVu4kqtQNvH96iKK7YAXY19u1sUBAGS",
+            "link": "https://bags.fm/GGCacGgxeQt1zcVu4kqtQNvH96iKK7YAXY19u1sUBAGS",
+            "totalFees": 163.1,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "TheSavant0X",
+                    "link": "https://x.com/TheSavant0X",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 155.35,
+                    "provider": "twitter",
+                    "providerUsername": "gr3gor14n",
+                    "link": "https://x.com/gr3gor14n",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 7.75
+        },
+        {
+            "mint": "3cL96frxAmNwpPHFqHCuzXscGvdpzmaACjbx8sH5BAGS",
+            "link": "https://bags.fm/3cL96frxAmNwpPHFqHCuzXscGvdpzmaACjbx8sH5BAGS",
+            "totalFees": 161.7,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 7.47,
+                    "provider": "twitter",
+                    "providerUsername": "jgsENERGY",
+                    "link": "https://x.com/jgsENERGY",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 154.23
+        },
+        {
+            "mint": "CroMfJ82YWJ2CpzGBwQwVDnE8v7JkpsgLZLUU2SFBAGS",
+            "link": "https://bags.fm/CroMfJ82YWJ2CpzGBwQwVDnE8v7JkpsgLZLUU2SFBAGS",
+            "totalFees": 159.52,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 157.62,
+                    "provider": "twitter",
+                    "providerUsername": "Anc_Aesthetics",
+                    "link": "https://x.com/Anc_Aesthetics",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 1.9
+        },
+        {
+            "mint": "FZmnRD5sgDHznghxysygzpwiFooZxA62C9jNe18oBAGS",
+            "link": "https://bags.fm/FZmnRD5sgDHznghxysygzpwiFooZxA62C9jNe18oBAGS",
+            "totalFees": 159.11,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "ChefZbo",
+                    "link": "https://x.com/ChefZbo",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "NickJFuentes",
+                    "link": "https://x.com/NickJFuentes",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 159.11
+        },
+        {
+            "mint": "zmWpMEd8YoYJn5PFSsso7G1hxDen3tSXBZLeSm7BAGS",
+            "link": "https://bags.fm/zmWpMEd8YoYJn5PFSsso7G1hxDen3tSXBZLeSm7BAGS",
+            "totalFees": 156.86,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "tetsuoai",
+                    "link": "https://x.com/tetsuoai",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 153.3,
+                    "provider": "twitter",
+                    "providerUsername": "finnbags",
+                    "link": "https://x.com/finnbags",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 3.56
+        },
+        {
+            "mint": "Au4HWtootHAAPqpsaYVCyXg8Z7zrBGYfWGRqofQ5BAGS",
+            "link": "https://bags.fm/Au4HWtootHAAPqpsaYVCyXg8Z7zrBGYfWGRqofQ5BAGS",
+            "totalFees": 155.76,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "CrayohlaEU",
+                    "link": "https://x.com/CrayohlaEU",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 155.76
+        },
+        {
+            "mint": "6aw4XznDBJ9YUifU2vTg4y8oCXJsyH8FEzFjvPNRBAGS",
+            "link": "https://bags.fm/6aw4XznDBJ9YUifU2vTg4y8oCXJsyH8FEzFjvPNRBAGS",
+            "totalFees": 152.92,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 11.29,
+                    "provider": "twitter",
+                    "providerUsername": "xuserdot",
+                    "link": "https://x.com/xuserdot",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 141.63
+        },
+        {
+            "mint": "9KL4RGf9Tpobh5Spg9RPJMWs5gxQZt2hi18EjYEaBAGS",
+            "link": "https://bags.fm/9KL4RGf9Tpobh5Spg9RPJMWs5gxQZt2hi18EjYEaBAGS",
+            "totalFees": 150.42,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "Silverhand83",
+                    "link": "https://x.com/Silverhand83",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 150.39,
+                    "provider": "twitter",
+                    "providerUsername": "hololux",
+                    "link": "https://x.com/hololux",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 0.02
+        },
+        {
+            "mint": "4pTN87RQi7Bt7yzU3CFk6FDiD8BYbH2dFYPwsAfjBAGS",
+            "link": "https://bags.fm/4pTN87RQi7Bt7yzU3CFk6FDiD8BYbH2dFYPwsAfjBAGS",
+            "totalFees": 149.85,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "unknown",
+                    "providerUsername": null,
+                    "link": null,
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 115.79,
+                    "provider": "twitter",
+                    "providerUsername": "OstrichFarmBC",
+                    "link": "https://x.com/OstrichFarmBC",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 34.06
+        },
+        {
+            "mint": "D5xCPJ38YDAM8taHxVdjNZJrLMeQBeWi7Y47xjpNBAGS",
+            "link": "https://bags.fm/D5xCPJ38YDAM8taHxVdjNZJrLMeQBeWi7Y47xjpNBAGS",
+            "totalFees": 147.08,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "duxxTales",
+                    "link": "https://x.com/duxxTales",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 144.4,
+                    "provider": "twitter",
+                    "providerUsername": "stoolpresidente",
+                    "link": "https://x.com/stoolpresidente",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 2.68
+        },
+        {
+            "mint": "phfyXKDM5WuaANLj1Pg7c1QKvH1q4DfdSBHHnLWBAGS",
+            "link": "https://bags.fm/phfyXKDM5WuaANLj1Pg7c1QKvH1q4DfdSBHHnLWBAGS",
+            "totalFees": 145.53,
+            "users": [
+                {
+                    "isCreator": true,
+                    "claimedSol": 0.0,
+                    "provider": "twitter",
+                    "providerUsername": "brasiers",
+                    "link": "https://x.com/brasiers",
+                    "royaltySplit": 0.0
+                },
+                {
+                    "isCreator": false,
+                    "claimedSol": 138.94,
+                    "provider": "twitter",
+                    "providerUsername": "CaydenGinting",
+                    "link": "https://x.com/CaydenGinting",
+                    "royaltySplit": 100.0
+                }
+            ],
+            "unclaimedSol": 6.59
+        }
+    ]
+}
