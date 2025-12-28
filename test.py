@@ -10,12 +10,25 @@ def main() -> None:
         for i, t in enumerate(data["response"]):
             info: dict[str, str | float | int] = {}
             total_fees = float(t.get("lifetimeFees", 0))
+            info["mint"] = t
+            info["link"] = f"https://bags.fm/{t}"
+            info["totalFees"] = total_fees
             if total_fees > 0:
                 print(f"{i}) {t["tokenInfo"]["symbol"]} - total fees: {round(total_fees / (10 ** 9), 2)} SOL")
                 print(t["token"])
-                for c in t.get("creators", []):
+                users: dict[int, str] = {}
+                for i, c in enumerate(t.get("creators", [])):
                     print(f"{c['providerUsername'] or "missing"} | {c["royaltyBps"] / 100} | {round(float(c["totalClaimed"]) / (10 ** 9), 2)} SOL")
                     total_fees -= float(c["totalClaimed"])
+                    if c["provider"] == "twitter":
+                        users[i]["link"] = f"x.com/{c['providerUsername']}"
+                    users[i] = {
+                        "provider": c["provider"],
+                        "providerUsername": c["providerUsername"],
+                        "claimedSol": round(float(c["totalClaimed"]) / (10 ** 9), 2),
+                        "royaltySplit": c["royaltyBps"] / 100,
+                        "isCreator": c["isCreator"]
+                                }
                 unclaimed = round(total_fees / (10 ** 9), 2)
                 print(f"{unclaimed} SOL available!")
             print("\n")
